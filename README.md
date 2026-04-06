@@ -1,3 +1,7 @@
+![fadliwiryawirawan bersama sayyidah almachera siwajah duplikasi](https://github.com/user-attachments/assets/e9e9137b-a967-4c7c-8a30-c252aecd3338)
+
+
+
 # google-terafoms
 # Coding Interview University
 
