@@ -2,6 +2,9 @@
 
 ## Our Pledge![cyberw1ry4-wordpress-com](https://github.com/user-attachments/assets/2e975c30-a498-4680-9cd6-f6aad67ac04a)
 
+## https://fadliwiryawirawan@google.com
+## https://fadliwiryawirawan@g20.org
+
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
