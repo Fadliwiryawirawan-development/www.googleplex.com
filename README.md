@@ -1,5 +1,6 @@
 ![fadliwiryawirawan bersama sayyidah almachera siwajah duplikasi](https://github.com/user-attachments/assets/e9e9137b-a967-4c7c-8a30-c252aecd3338)
 
+![cyberw1ry4-wordpress-com](https://github.com/user-attachments/assets/d5c64f2c-330a-4889-975c-be6eade3dbf3)
 
 
 # google-terafoms
