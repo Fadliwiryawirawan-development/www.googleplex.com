@@ -1,5 +1,5 @@
 ![wiryamyuts](https://github.com/user-attachments/assets/03c90e9c-9acc-46af-bb86-1092fbe2681f)
-
+# AKU SUDAH MENJADI ELANG MESKI ADA SESUATU YANG INGIN BERUSAHA MENJADIKANKU AYAM KALKUN - NAMUN TIDAK TERSAMPAIKAN 
 # google-terafoms
 # Coding Interview University
 
