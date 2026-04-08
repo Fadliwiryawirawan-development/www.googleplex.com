@@ -2,6 +2,9 @@
 # AKU SUDAH MENJADI ELANG MESKI ADA SESUATU YANG INGIN BERUSAHA MENJADIKANKU AYAM KALKUN - NAMUN TIDAK TERSAMPAIKAN 
 # google-terafoms
 # Coding Interview University
+# Tidak Akan ada keterlibatan kinerja pekerjaan dengan problematik sosial hormonis , keharmonisan dibentuk karena keterkaitan hubungan sakral free singel to say finishment problematic women dont sign grow , ected attitude shaw google and microsoft 
+
+![bukti sebelum dihapus komentar](https://github.com/user-attachments/assets/8ecfd799-3119-468b-9443-ed22ba550233)
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
