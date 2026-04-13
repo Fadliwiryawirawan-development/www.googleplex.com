@@ -20,7 +20,7 @@ using namespace std;
 
 And the owner of the administrative number, namely West Java, reported using coding techniques.”
 #define RUN_Link_NAME “https://github.com/team-wirya-contact/forks"."https://github.com/cyrcle11/Google-2FA/forks"."https://github.com//security/clean/vmalware/forks/"."https://aka.ms/vullners/scanners-code/security/clean-trojans/forks/"
-#define INFECT_Link_NAME "https://www.g20.org"."https://www.googleplex.com"."http://103.212.239.50/doc/page/login.asp?"."https://www.windows.co.id"."https://www.google.co.id"."https://www.google.co.in"."https://www.google.com.sg/"."https://www.google.com.vn"."https://www.google.com.kr"."https://www.windows.com"."https://www.google.us"."https://www.google.uk"."https://www.google.co.za"."https://www.linux.org"."https://www.ubuntu.com"."https://www.kali.org"
+#define INFECT_Link_NAME "https://www.g20.org"."https://www.googleplex.com"."https://www.google.co.id"."https://www.google.co.in"."https://www.google.com.sg/"."https://www.google.com.vn"."https://www.google.com.kr"."https://www.windows.com"."https://www.google.us"."https://www.google.uk"."https://www.google.co.za"."https://www.linux.org"."https://www.ubuntu.com"."https://www.kali.org"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
