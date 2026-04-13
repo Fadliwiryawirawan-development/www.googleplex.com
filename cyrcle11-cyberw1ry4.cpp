@@ -3,6 +3,7 @@
 * Developtment free palestine and free ukraine , free malysia ,papua , indonesia , free iran america , 
 * Date: 15.Aug.2014, 28.Sep.2015
 * Comment: Anti Bmalware A. Trojan A. Spyware. detect malciouse .txt no contribute  non refounded MIT technic metode !!!
+* cyberw1ry4-LAB handle attacked wow waw wew weweweweweewew
 **/
 
 #include <windows.h>
