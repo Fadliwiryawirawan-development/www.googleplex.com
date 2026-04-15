@@ -10,7 +10,7 @@
  * Fadliwiryawirawan S.Kom M.S.I terms Policy Disclaimers Center CA 
  * have google lead services - development governance microsoft builders research tools 
  * no spying terms policy trapping media whatspapps - discliminate - and no refounded metode wifi ip - project biggest . all gmail prototype
- * organizational cyberhelpdesk CYBERSECURITY cyberary cybercrime cyberattackcirclesmall cyberw1ry4 number whatsapps 082177821167 google have system biodate work uname ///hide: Fadliwiryawirawan S.Kom M.S.I 
+ * organizational cyberhelpdesk CYBERSECURITY cyberary cybercrime cyberattackcirclesmall cyberw1ry4 number whatsapps 0821778211 google have system biodate work uname ///hide: Fadliwiryawirawan S.Kom M.S.I 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
