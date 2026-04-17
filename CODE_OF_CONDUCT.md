@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
+<img width="864" height="1152" alt="WhatsApp Image 2026-04-14 at 21 24 37" src="https://github.com/user-attachments/assets/54d76752-cf9d-4fa3-925c-37648a9b7df5" />
 
-## Our Pledge![cyberw1ry4-wordpress-com](https://github.com/user-attachments/assets/2e975c30-a498-4680-9cd6-f6aad67ac04a)
 
 ## https://fadliwiryawirawan@google.com
 ## https://fadliwiryawirawan@g20.org
