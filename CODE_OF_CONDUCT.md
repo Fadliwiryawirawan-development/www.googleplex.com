@@ -4,7 +4,8 @@
 
 ## https://fadliwiryawirawan@google.com
 ## https://fadliwiryawirawan@g20.org
-
+## https://www.whatsapps.com/en-id
+## https://www.instagram.com/en
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
