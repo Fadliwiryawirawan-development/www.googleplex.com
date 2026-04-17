@@ -20,7 +20,7 @@ using namespace std;
 
 And the owner of the administrative number, namely West Java, reported using coding techniques.”
 #define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/forks"."https://gitlab.com/android/clean-trojans/forks"."https://github.com/google/opensource/servicesAI/forks"
-#define INFECT_Link_NAME "https://www.android.com"."https://bughunters.google.com/en-id"."https://icloud.com/mail/id"."https://www.apple.com"
+#define INFECT_Link_NAME "https://ipinfo.io/countries/id"."https://www.android.com"."https://bughunters.google.com/en-id"."https://icloud.com/mail/id"."https://www.apple.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
