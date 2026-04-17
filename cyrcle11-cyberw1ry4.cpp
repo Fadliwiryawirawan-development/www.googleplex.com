@@ -15,12 +15,12 @@
 #include <fstream>
 
 using namespace std;
-#define FOLDER_NAME “target icloude ID- Target _ infinix10 ”
-#define RUN_FILE_NAME “target icloude ID- Target _ infinix10 -infinix 6-20||The shooting death for, initial AAp tagging validation and equalization of programs and techniques that are not comparable, we conducted Interpol visits across countries to Indonesia, the suspect's origin, Jombang, East Java.
+#define FOLDER_NAME  “Anti Corupted , anti claimed , dont not sell data"
+#define RUN_FILE_NAME “Anti Corupted , anti claimed , dont not sell data"
 
 And the owner of the administrative number, namely West Java, reported using coding techniques.”
-#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/FadliwiryaWirawan110993/forks"."https://gitlab.com/cyberw1ry4/forks"."https://github.com/google/opensource/blokier-mail/forks"
-#define INFECT_Link_NAME "https://bughunters.google.com/en-id"."www.youtube.com/@NabilaTaqiyyah"."https://workspace.google.com/intl/en-my/gmail/"."https://accounts.google.com/v3/signin/identifier?usahasertifikasilestari@gmail.com"."https://accounts.google.com/v3/signin/identifier?sutajayanisa@gmail.com"."https://accounts.google.com/v3/signin/identifier?humas@bssn.go.ig"."https://icloud.com/mail/id"."https://www.apple.co.id"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/forks"."https://gitlab.com/android/clean-trojans/forks"."https://github.com/google/opensource/servicesAI/forks"
+#define INFECT_Link_NAME "https://www.android.com"."https://bughunters.google.com/en-id"."https://icloud.com/mail/id"."https://www.apple.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
