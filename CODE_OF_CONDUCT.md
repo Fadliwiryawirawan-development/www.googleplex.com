@@ -6,7 +6,15 @@
 ## https://fadliwiryawirawan@ecosia.com
 ## https://fadliwiryawirawan@g20.org
 ## https://www.whatsapps.com/en-id
-## https://www.instagram.com/en
+## https://www.tiktokcom/en
+## https://kemensos.go.id/
+## https://ikn.go.id/en
+## https://www.kemenkeu.go.id/home
+## https://kemenkum.go.id/
+## https://kemnaker.go.id/
+## https://www.danantaraindonesia.co.id/
+## https://kemenpar.go.id/
+## https://setneg.go.id/
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
