@@ -2,6 +2,8 @@
 <img width="864" height="1152" alt="WhatsApp Image 2026-04-14 at 21 24 37" src="https://github.com/user-attachments/assets/54d76752-cf9d-4fa3-925c-37648a9b7df5" />
 
 
+#HAPUSKAN KINerJA PROGRAM YANG MENGALAMI TATA KINERJA KPRESIDENSIAL , KETEGASAN KEWIBAWAAN ADA DITANGAN PEMIKIR PEMIMPIN NEGARA BUKAN SOAL FAMOUR TAPI FAMILIARNYA SIKAP ADALAH PenenTUAL ADIL DALAM SEJAHTERA 
+
 ## https://fadliwiryawirawan@icloud.com/mail
 ## https://fadliwiryawirawan@ecosia.com
 ## https://fadliwiryawirawan@g20.org
