@@ -1,4 +1,12 @@
-# STATMENT 
+# STATMENT
+
+# kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
+# terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
+# salam Fadli wirya wirawan S.Kom M.S.I work system microsoft dan googleworkspace , tembusan ini menjadi suatu pilihan penting , kebelakangan ini 5 tahun belum ada perubahan ,titik jenuh sumber penghasilan pekerja justru malah di tarifkan nasional , kami komplain demonstrans bagi prakerja nasional buruh wiraswasta , hingga , pekerja tetap , wfh , remote . 
+# pekerja justice& ministry adalah manufer bukan mengakses , menjaga intergritas perusahaan bukan mengelola atau mengambil hak pajak didalm kinerja , para pekerja .
+# google dan microsoft menarifkan apa yang di tarifkan pemerintah kepada rakyat kami segenap melihat situasi feedback lencana Central budzet ofiicers , ataupun bank negara . 
+
+
 #I attach this. No one claiming to be my fiancé or boyfriend is unreasonable if they hinder my work success. From the start, I suspect the government of my country, Indonesia. I envy the performance of disciplined countries like Singapore and China. China is a country with a majority anti-corruption discipline. The government's mistake in trapping companies that only benefit the community would be much better. Please inform the team. Decide on funding for them. Acknowledging themselves as something that once lived with you. In fact, I parted ways with a heart that was willing if it was just a temporary date. Thank you, team. Do you know what I mean by the prologue sentence above? It is a form of morality in life. It is truly difficult to work together to create together in a team even though hundreds of kilometers away in a country very far from Langsa.
 
 There is no development arrangement in an irrational way and no responsibility on behalf of the wife and fiancé.
