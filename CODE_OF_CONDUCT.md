@@ -7,7 +7,9 @@
 ## https://fadliwiryawirawan@icloud.com/mail
 ## https://fadliwiryawirawan@ecosia.com
 ## https://fadliwiryawirawan@g20.org
-## https://www.whatsapps.com/en-id
+## https://bughunters.google.com/
+##  https://nmap.org/download
+## https://www.cloudflare.com/fr-fr/
 ## https://www.tiktokcom/en
 ## https://kemensos.go.id/
 ## https://ikn.go.id/en
