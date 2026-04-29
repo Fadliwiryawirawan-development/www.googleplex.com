@@ -61,7 +61,7 @@ connect to HTTPS URL because the SSL module is not available."))
 # target blokded cheat and gambling game 
 # Retrieved 2026-04-14, License - CC BY-SA 4.0
 # cyberw 1 r y 4 development tester and target to ssl and serveral 
-requests.exceptions.SSLError: HTTPSConnectionPool(host='://www.apple.co.id/mail' 
+requests.exceptions.SSLError: HTTPSConnectionPool(host='://www.apple.co.uk/mail' 
 port=443): Max retries exceeded with url: / (Caused by SSLError("Can't 
 connect to HTTPS URL because the SSL module is not available."))
 
@@ -76,7 +76,7 @@ connect to HTTPS URL because the SSL module is not available."))
 # target blokded cheat and gambling game 
 # Retrieved 2026-04-14, License - CC BY-SA 4.0
 # cyberw 1 r y 4 development tester and target to ssl and serveral 
-requests.exceptions.SSLError: HTTPSConnectionPool(host='://www.apple.co.id/mail' 
+requests.exceptions.SSLError: HTTPSConnectionPool(host='://www.samsung.com/mail' 
 port=443): Max retries exceeded with url: / (Caused by SSLError("Can't 
 connect to HTTPS URL because the SSL module is not available."))
 
@@ -110,7 +110,15 @@ requests.exceptions.SSLError: HTTPSConnectionPool(host='://cyberpunk77.org/'
 port=443): Max retries exceeded with url: / (Caused by SSLError("Can't 
 connect to HTTPS URL because the SSL module is not available."))
 
- 
+# target blokded cheat and gambling game 
+# Retrieved 2026-04-14, License - CC BY-SA 4.0
+# cyberw 1 r y 4 development tester and target to ssl and serveral  
 requests.exceptions.SSLError: HTTPSConnectionPool(host='://store.steampowered.com/remoteplay/Topics=?cheat#' 
 port=443): Max retries exceeded with url: / (Caused by SSLError("Can't 
 connect to HTTPS URL because the SSL module is not available."))
+
+
+
+
+
+
